@@ -1,79 +1,36 @@
-.grid-container {
-    width: 1920px;
-    height: 1080px;
 
-  }
-  
-  .grid-item {
-    background-color: rgb(175, 16, 16);
-    width: 479px;
-    height: 260px;
-    float: left ;
-  }
-  
-  .item-1 {
-    background-color: red;
-    height: 260px;
-    float: left ;
-  }
-  
-  .item-2 {
-    background-color: rgb(24, 148, 96);
-  }
-  
-  .item-3 {
-    background-color: rgb(167, 31, 115);
-  }
-  
-  .item-4 {
-    background-color: rgb(15, 239, 15);
-  }
-  
-  .item-5 {
-    background-color: rgb(244, 93, 244);
-  }
-  
-  .item-6 {
-    background-color: rgb(165, 139, 93);
-  }
-  
-  .item-7 {
-    background-color: rgb(237, 6, 44);
-  }
-  
-  .item-8 {
-    background-color: rgb(28, 218, 218);
-  }
-  
-  .item-9 {
-    background-color: rgb(224, 43, 43);
-  }
-  
-  .item-10 {
-    background-color: rgb(12, 12, 243);
-  }
-  
-  .item-11 {
-    background-color: rgb(220, 6, 6);
-  }
-  
-  .item-12 {
-    background-color: rgb(239, 239, 28);
-  }
-  
-  .item-13 {
-    background-color: rgb(92, 192, 92);
-  }
-  
-  .item-14 {
-    background-color: rgb(224, 69, 224);
-  }
-  
-  .item-15 {
-    background-color: rgb(90, 253, 253);
-  }
-  
-  .item-16 {
-    background-color: rgb(62, 16, 16);
-  }
-  
+nav{
+  width: 1440px; height: 50px;
+  background-color: orange;
+}
+
+
+#uno{width: 150px; height: 30px ;
+background-color: yellow;float: left;margin: 10px 10px ;}
+
+#dos{width: 150px; height: 30px ;
+  background-color: yellow;float:left;margin: 10px 10px ;}
+
+#tres{width: 150px; height: 30px ;
+    background-color: yellow;float:left;margin: 10px 10px;}
+
+#cuatro{width: 150px; height: 30px ;
+      background-color: yellow;float:left;margin: 10px 10px;}
+   
+main{
+  width: 1440px; height: 700px; background-color: blue; 
+
+}
+ article{
+  width: 1200px; height: 700px; background-color:burlywood ;float: left;
+ } 
+ #ariba{
+  width:1200px ; height: 350; background-color: brown;float: left;
+ 
+#abajo{
+ width:1200px ; height: 350; background-color:royalblue;float: right;
+}  
+
+
+ 
+
